@@ -1,0 +1,1 @@
+{"name":"Local: 1896A","url":"d:\\tle\\800-Rating_codeforces\\1896A.py","tests":[{"id":1720637187374,"input":"6\n3\n1 2 3\n5\n1 3 2 5 4\n5\n5 4 3 2 1\n3\n3 1 2\n4\n2 3 1 4\n5\n5 1 2 3 4\n","output":"YES\nYES\nNO\nNO\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\tle\\800-Rating_codeforces\\1896A.py","group":"local","local":true}
